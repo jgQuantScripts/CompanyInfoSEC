@@ -1,0 +1,445 @@
+﻿SIC Code,Office,Industry Title,LEFT,MAJOR GROUP,DIVISION
+100,Life Sciences,AGRICULTURAL PRODUCTION-CROPS,01,Agricultural Production Crops,"Agriculture, Forestry, And Fishing"
+200,Life Sciences,AGRICULTURAL PROD-LIVESTOCK & ANIMAL SPECIALTIES,02,Agriculture Production Livestock And Animal Specialties,"Agriculture, Forestry, And Fishing"
+700,Life Sciences,AGRICULTURAL SERVICES,07,Agricultural Services,"Agriculture, Forestry, And Fishing"
+800,Life Sciences,FORESTRY,08,Forestry,"Agriculture, Forestry, And Fishing"
+900,Life Sciences,"FISHING, HUNTING AND TRAPPING",09,"Fishing, Hunting, and Trapping","Agriculture, Forestry, And Fishing"
+1000,Energy & Transportation,METAL MINING,10,Metal Mining,Mining
+1040,Energy & Transportation,GOLD AND SILVER ORES,10,Metal Mining,Mining
+1090,Energy & Transportation,MISCELLANEOUS METAL ORES,10,Metal Mining,Mining
+1220,Energy & Transportation,BITUMINOUS COAL & LIGNITE MINING,12,Coal Mining,Mining
+1221,Energy & Transportation,BITUMINOUS COAL & LIGNITE SURFACE MINING,12,Coal Mining,Mining
+1311,Energy & Transportation,CRUDE PETROLEUM & NATURAL GAS,13,Oil and Gas Extraction,Mining
+1381,Energy & Transportation,DRILLING OIL & GAS WELLS,13,Oil and Gas Extraction,Mining
+1382,Energy & Transportation,OIL & GAS FIELD EXPLORATION SERVICES,13,Oil and Gas Extraction,Mining
+1389,Energy & Transportation,"OIL & GAS FIELD SERVICES, NEC",13,Oil and Gas Extraction,Mining
+1400,Energy & Transportation,MINING & QUARRYING OF NONMETALLIC MINERALS (NO FUELS),14,"Mining And Quarrying Of Nonmetallic Minerals, Except Fuels",Mining
+1520,Real Estate & Construction,GENERAL BLDG CONTRACTORS - RESIDENTIAL BLDGS,15,Building Construction General Contractors And Operative Builders,Construction
+1531,Real Estate & Construction,OPERATIVE BUILDERS,15,Building Construction General Contractors And Operative Builders,Construction
+1540,Real Estate & Construction,GENERAL BLDG CONTRACTORS - NONRESIDENTIAL BLDGS,15,Building Construction General Contractors And Operative Builders,Construction
+1600,Real Estate & Construction,HEAVY CONSTRUCTION OTHER THAN BLDG CONST - CONTRACTORS,16,Heavy Construction Other Than Building Construction Contractors,Construction
+1623,Real Estate & Construction,"WATER, SEWER, PIPELINE, COMM & POWER LINE CONSTRUCTION",16,Heavy Construction Other Than Building Construction Contractors,Construction
+1700,Real Estate & Construction,CONSTRUCTION - SPECIAL TRADE CONTRACTORS,17,Construction Special Trade Contractors,Construction
+1731,Real Estate & Construction,ELECTRICAL WORK,17,Construction Special Trade Contractors,Construction
+2000,Manufacturing,FOOD AND KINDRED PRODUCTS,20,Food And Kindred Products,Manufacturing
+2011,Manufacturing,MEAT PACKING PLANTS,20,Food And Kindred Products,Manufacturing
+2013,Manufacturing,SAUSAGES & OTHER PREPARED MEAT PRODUCTS,20,Food And Kindred Products,Manufacturing
+2015,Manufacturing,POULTRY SLAUGHTERING AND PROCESSING,20,Food And Kindred Products,Manufacturing
+2020,Manufacturing,DAIRY PRODUCTS,20,Food And Kindred Products,Manufacturing
+2024,Manufacturing,ICE CREAM & FROZEN DESSERTS,20,Food And Kindred Products,Manufacturing
+2030,Manufacturing,"CANNED, FROZEN & PRESERVD FRUIT, VEG & FOOD SPECIALTIES",20,Food And Kindred Products,Manufacturing
+2033,Manufacturing,"CANNED, FRUITS, VEG, PRESERVES, JAMS & JELLIES",20,Food And Kindred Products,Manufacturing
+2040,Manufacturing,GRAIN MILL PRODUCTS,20,Food And Kindred Products,Manufacturing
+2050,Manufacturing,BAKERY PRODUCTS,20,Food And Kindred Products,Manufacturing
+2052,Manufacturing,COOKIES & CRACKERS,20,Food And Kindred Products,Manufacturing
+2060,Manufacturing,SUGAR & CONFECTIONERY PRODUCTS,20,Food And Kindred Products,Manufacturing
+2070,Manufacturing,FATS & OILS,20,Food And Kindred Products,Manufacturing
+2080,Manufacturing,BEVERAGES,20,Food And Kindred Products,Manufacturing
+2082,Manufacturing,MALT BEVERAGES,20,Food And Kindred Products,Manufacturing
+2086,Manufacturing,BOTTLED & CANNED SOFT DRINKS & CARBONATED WATERS,20,Food And Kindred Products,Manufacturing
+2090,Manufacturing,MISCELLANEOUS FOOD PREPARATIONS & KINDRED PRODUCTS,20,Food And Kindred Products,Manufacturing
+2092,Manufacturing,PREPARED FRESH OR FROZEN FISH & SEAFOODS,20,Food And Kindred Products,Manufacturing
+2100,Manufacturing,TOBACCO PRODUCTS,21,Tobacco Products,Manufacturing
+2111,Manufacturing,CIGARETTES,21,Tobacco Products,Manufacturing
+2200,Manufacturing,TEXTILE MILL PRODUCTS,22,Textile Mill Products,Manufacturing
+2211,Manufacturing,"BROADWOVEN FABRIC MILLS, COTTON",22,Textile Mill Products,Manufacturing
+2221,Manufacturing,"BROADWOVEN FABRIC MILLS, MAN MADE FIBER & SILK",22,Textile Mill Products,Manufacturing
+2250,Manufacturing,KNITTING MILLS,22,Textile Mill Products,Manufacturing
+2253,Manufacturing,KNIT OUTERWEAR MILLS,22,Textile Mill Products,Manufacturing
+2273,Manufacturing,CARPETS & RUGS,22,Textile Mill Products,Manufacturing
+2300,Manufacturing,APPAREL & OTHER FINISHD PRODS OF FABRICS & SIMILAR MATL,23,Apparel And Other Finished Products Made From Fabrics And Similar Materials,Manufacturing
+2320,Manufacturing,"MEN'S & BOYS' FURNISHGS, WORK CLOTHG, & ALLIED GARMENTS",23,Apparel And Other Finished Products Made From Fabrics And Similar Materials,Manufacturing
+2330,Manufacturing,"WOMEN'S, MISSES', AND JUNIORS OUTERWEAR",23,Apparel And Other Finished Products Made From Fabrics And Similar Materials,Manufacturing
+2340,Manufacturing,"WOMEN'S, MISSES', CHILDREN'S & INFANTS' UNDERGARMENTS",23,Apparel And Other Finished Products Made From Fabrics And Similar Materials,Manufacturing
+2390,Manufacturing,MISCELLANEOUS FABRICATED TEXTILE PRODUCTS,23,Apparel And Other Finished Products Made From Fabrics And Similar Materials,Manufacturing
+2400,Manufacturing,LUMBER & WOOD PRODUCTS (NO FURNITURE),24,"Lumber And Wood Products, Except Furniture",Manufacturing
+2421,Manufacturing,"SAWMILLS & PLANTING MILLS, GENERAL",24,"Lumber And Wood Products, Except Furniture",Manufacturing
+2430,Manufacturing,"MILLWOOD, VENEER, PLYWOOD, & STRUCTURAL WOOD MEMBERS",24,"Lumber And Wood Products, Except Furniture",Manufacturing
+2451,Manufacturing,MOBILE HOMES,24,"Lumber And Wood Products, Except Furniture",Manufacturing
+2452,Manufacturing,PREFABRICATED WOOD BLDGS & COMPONENTS,24,"Lumber And Wood Products, Except Furniture",Manufacturing
+2510,Manufacturing,HOUSEHOLD FURNITURE,25,Furniture And Fixtures,Manufacturing
+2511,Manufacturing,"WOOD HOUSEHOLD FURNITURE, (NO UPHOLSTERED)",25,Furniture And Fixtures,Manufacturing
+2520,Manufacturing,OFFICE FURNITURE,25,Furniture And Fixtures,Manufacturing
+2522,Manufacturing,OFFICE FURNITURE (NO WOOD),25,Furniture And Fixtures,Manufacturing
+2531,Manufacturing,PUBLIC BLDG & RELATED FURNITURE,25,Furniture And Fixtures,Manufacturing
+2540,Manufacturing,"PARTITIONS, SHELVG, LOCKERS, & OFFICE & STORE FIXTURES",25,Furniture And Fixtures,Manufacturing
+2590,Manufacturing,MISCELLANEOUS FURNITURE & FIXTURES,25,Furniture And Fixtures,Manufacturing
+2600,Manufacturing,PAPERS & ALLIED PRODUCTS,26,Paper And Allied Products,Manufacturing
+2611,Manufacturing,PULP MILLS,26,Paper And Allied Products,Manufacturing
+2621,Manufacturing,PAPER MILLS,26,Paper And Allied Products,Manufacturing
+2631,Manufacturing,PAPERBOARD MILLS,26,Paper And Allied Products,Manufacturing
+2650,Manufacturing,PAPERBOARD CONTAINERS & BOXES,26,Paper And Allied Products,Manufacturing
+2670,Manufacturing,CONVERTED PAPER & PAPERBOARD PRODS (NO CONTANERS/BOXES),26,Paper And Allied Products,Manufacturing
+2673,Manufacturing,"PLASTICS, FOIL & COATED PAPER BAGS",26,Paper And Allied Products,Manufacturing
+2711,Manufacturing,NEWSPAPERS: PUBLISHING OR PUBLISHING & PRINTING,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2721,Manufacturing,PERIODICALS: PUBLISHING OR PUBLISHING & PRINTING,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2731,Manufacturing,BOOKS: PUBLISHING OR PUBLISHING & PRINTING,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2732,Manufacturing,BOOK PRINTING,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2741,Manufacturing,MISCELLANEOUS PUBLISHING,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2750,Manufacturing,COMMERCIAL PRINTING,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2761,Manufacturing,MANIFOLD BUSINESS FORMS,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2771,Manufacturing,GREETING CARDS,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2780,Manufacturing,"BLANKBOOKS, LOOSELEAF BINDERS & BOOKBINDG & RELATD WORK",27,"Printing, Publishing, And Allied Industries",Manufacturing
+2790,Manufacturing,SERVICE INDUSTRIES FOR THE PRINTING TRADE,27,"Printing, Publishing, And Allied Industries",Manufacturing
+2800,Life Sciences,CHEMICALS & ALLIED PRODUCTS,28,Chemicals And Allied Products,Manufacturing
+2810,Life Sciences,INDUSTRIAL INORGANIC CHEMICALS,28,Chemicals And Allied Products,Manufacturing
+2820,Life Sciences,"PLASTIC MATERIAL, SYNTH RESIN/RUBBER, CELLULOS (NO GLASS)",28,Chemicals And Allied Products,Manufacturing
+2821,Life Sciences,"PLASTIC MATERIALS, SYNTH RESINS & NONVULCAN ELASTOMERS",28,Chemicals And Allied Products,Manufacturing
+2833,Life Sciences,MEDICINAL CHEMICALS & BOTANICAL PRODUCTS,28,Chemicals And Allied Products,Manufacturing
+2834,Life Sciences,PHARMACEUTICAL PREPARATIONS,28,Chemicals And Allied Products,Manufacturing
+2835,Life Sciences,IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES,28,Chemicals And Allied Products,Manufacturing
+2836,Life Sciences,"BIOLOGICAL PRODUCTS, (NO DISGNOSTIC SUBSTANCES)",28,Chemicals And Allied Products,Manufacturing
+2840,Life Sciences,"SOAP, DETERGENTS, CLEANG PREPARATIONS, PERFUMES, COSMETICS",28,Chemicals And Allied Products,Manufacturing
+2842,Life Sciences,"SPECIALTY CLEANING, POLISHING AND SANITATION PREPARATIONS",28,Chemicals And Allied Products,Manufacturing
+2844,Life Sciences,"PERFUMES, COSMETICS & OTHER TOILET PREPARATIONS",28,Chemicals And Allied Products,Manufacturing
+2851,Life Sciences,"PAINTS, VARNISHES, LACQUERS, ENAMELS & ALLIED PRODS",28,Chemicals And Allied Products,Manufacturing
+2860,Life Sciences,INDUSTRIAL ORGANIC CHEMICALS,28,Chemicals And Allied Products,Manufacturing
+2870,Life Sciences,AGRICULTURAL CHEMICALS,28,Chemicals And Allied Products,Manufacturing
+2890,Life Sciences,MISCELLANEOUS CHEMICAL PRODUCTS,28,Chemicals And Allied Products,Manufacturing
+2891,Life Sciences,ADHESIVES & SEALANTS,28,Chemicals And Allied Products,Manufacturing
+2911,Energy & Transportation,PETROLEUM REFINING,29,Petroleum Refining And Related Industries,Manufacturing
+2950,Energy & Transportation,ASPHALT PAVING & ROOFING MATERIALS,29,Petroleum Refining And Related Industries,Manufacturing
+2990,Energy & Transportation,MISCELLANEOUS PRODUCTS OF PETROLEUM & COAL,29,Petroleum Refining And Related Industries,Manufacturing
+3011,Manufacturing,TIRES & INNER TUBES,30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3021,Manufacturing,RUBBER & PLASTICS FOOTWEAR,30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3050,Manufacturing,"GASKETS, PACKG & SEALG DEVICES & RUBBER & PLASTICS HOSE",30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3060,Manufacturing,"FABRICATED RUBBER PRODUCTS, NEC",30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3080,Manufacturing,MISCELLANEOUS PLASTICS PRODUCTS,30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3081,Manufacturing,UNSUPPORTED PLASTICS FILM & SHEET,30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3086,Manufacturing,PLASTICS FOAM PRODUCTS,30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3089,Manufacturing,"PLASTICS PRODUCTS, NEC",30,Rubber And Miscellaneous Plastics Products,Manufacturing
+3100,Manufacturing,LEATHER & LEATHER PRODUCTS,31,Leather And Leather Products,Manufacturing
+3140,Manufacturing,"FOOTWEAR, (NO RUBBER)",31,Leather And Leather Products,Manufacturing
+3211,Manufacturing,FLAT GLASS,32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3220,Manufacturing,"GLASS & GLASSWARE, PRESSED OR BLOWN",32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3221,Manufacturing,GLASS CONTAINERS,32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3231,Manufacturing,"GLASS PRODUCTS, MADE OF PURCHASED GLASS",32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3241,Manufacturing,"CEMENT, HYDRAULIC",32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3250,Manufacturing,STRUCTURAL CLAY PRODUCTS,32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3260,Manufacturing,POTTERY & RELATED PRODUCTS,32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3270,Manufacturing,"CONCRETE, GYPSUM & PLASTER PRODUCTS",32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3272,Manufacturing,"CONCRETE PRODUCTS, EXCEPT BLOCK & BRICK",32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3281,Manufacturing,CUT STONE & STONE PRODUCTS,32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3290,Manufacturing,"ABRASIVE, ASBESTOS & MISC NONMETALLIC MINERAL PRODS",32,"Stone, Clay, Glass, And Concrete Products",Manufacturing
+3310,Manufacturing,"STEEL WORKS, BLAST FURNACES & ROLLING & FINISHING MILLS",33,Primary Metal Industries,Manufacturing
+3312,Manufacturing,"STEEL WORKS, BLAST FURNACES & ROLLING MILLS (COKE OVENS)",33,Primary Metal Industries,Manufacturing
+3317,Manufacturing,STEEL PIPE & TUBES,33,Primary Metal Industries,Manufacturing
+3320,Manufacturing,IRON & STEEL FOUNDRIES,33,Primary Metal Industries,Manufacturing
+3330,Manufacturing,PRIMARY SMELTING & REFINING OF NONFERROUS METALS,33,Primary Metal Industries,Manufacturing
+3334,Manufacturing,PRIMARY PRODUCTION OF ALUMINUM,33,Primary Metal Industries,Manufacturing
+3341,Manufacturing,SECONDARY SMELTING & REFINING OF NONFERROUS METALS,33,Primary Metal Industries,Manufacturing
+3350,Manufacturing,ROLLING DRAWING & EXTRUDING OF NONFERROUS METALS,33,Primary Metal Industries,Manufacturing
+3357,Manufacturing,DRAWING & INSULATING OF NONFERROUS WIRE,33,Primary Metal Industries,Manufacturing
+3360,Manufacturing,NONFERROUS FOUNDRIES (CASTINGS),33,Primary Metal Industries,Manufacturing
+3390,Manufacturing,MISCELLANEOUS PRIMARY METAL PRODUCTS,33,Primary Metal Industries,Manufacturing
+3411,Manufacturing,METAL CANS,34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3412,Manufacturing,"METAL SHIPPING BARRELS, DRUMS, KEGS & PAILS",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3420,Manufacturing,"CUTLERY, HANDTOOLS & GENERAL HARDWARE",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3430,Manufacturing,"HEATING EQUIP, EXCEPT ELEC & WARM AIR; & PLUMBING FIXTURES",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3433,Manufacturing,"HEATING EQUIPMENT, EXCEPT ELECTRIC & WARM AIR FURNACES",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3440,Manufacturing,FABRICATED STRUCTURAL METAL PRODUCTS,34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3442,Manufacturing,"METAL DOORS, SASH, FRAMES, MOLDINGS & TRIM",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3443,Manufacturing,FABRICATED PLATE WORK (BOILER SHOPS),34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3444,Manufacturing,SHEET METAL WORK,34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3448,Manufacturing,PREFABRICATED METAL BUILDINGS & COMPONENTS,34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3451,Manufacturing,SCREW MACHINE PRODUCTS,34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3452,Manufacturing,"BOLTS, NUTS, SCREWS, RIVETS & WASHERS",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3460,Manufacturing,METAL FORGINGS & STAMPINGS,34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3470,Manufacturing,"COATING, ENGRAVING & ALLIED SERVICES",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3480,Manufacturing,"ORDNANCE & ACCESSORIES, (NO VEHICLES/GUIDED MISSILES)",34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3490,Manufacturing,MISCELLANEOUS FABRICATED METAL PRODUCTS,34,"Fabricated Metal Products, Except Machinery And Transportation Equipment",Manufacturing
+3510,Technology,ENGINES & TURBINES,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3523,Technology,FARM MACHINERY & EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3524,Technology,LAWN & GARDEN TRACTORS & HOME LAWN & GARDENS EQUIP,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3530,Technology,"CONSTRUCTION, MINING & MATERIALS HANDLING MACHINERY & EQUIP",35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3531,Technology,CONSTRUCTION MACHINERY & EQUIP,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3532,Technology,MINING MACHINERY & EQUIP (NO OIL & GAS FIELD MACH & EQUIP),35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3533,Technology,OIL & GAS FIELD MACHINERY & EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3537,Technology,"INDUSTRIAL TRUCKS, TRACTORS, TRAILORS & STACKERS",35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3540,Technology,METALWORKG MACHINERY & EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3541,Technology,"MACHINE TOOLS, METAL CUTTING TYPES",35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3550,Technology,SPECIAL INDUSTRY MACHINERY (NO METALWORKING MACHINERY),35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3555,Technology,PRINTING TRADES MACHINERY & EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3559,Technology,"SPECIAL INDUSTRY MACHINERY, NEC",35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3560,Technology,GENERAL INDUSTRIAL MACHINERY & EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3561,Technology,PUMPS & PUMPING EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3562,Technology,BALL & ROLLER BEARINGS,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3564,Technology,INDUSTRIAL & COMMERCIAL FANS & BLOWERS & AIR PURIFING EQUIP,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3567,Technology,INDUSTRIAL PROCESS FURNACES & OVENS,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3569,Technology,"GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC",35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3570,Technology,COMPUTER & OFFICE EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3571,Technology,ELECTRONIC COMPUTERS,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3572,Technology,COMPUTER STORAGE DEVICES,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3575,Technology,COMPUTER TERMINALS,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3576,Technology,COMPUTER COMMUNICATIONS EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3577,Technology,"COMPUTER PERIPHERAL EQUIPMENT, NEC",35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3578,Technology,CALCULATING & ACCOUNTING MACHINES (NO ELECTRONIC COMPUTERS),35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3579,Technology,"OFFICE MACHINES, NEC",35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3580,Technology,REFRIGERATION & SERVICE INDUSTRY MACHINERY,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3585,Technology,AIR-COND & WARM AIR HEATG EQUIP & COMM & INDL REFRIG EQUIP,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3590,Technology,MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT,35,Industrial And Commercial Machinery And Computer Equipment,Manufacturing
+3600,Manufacturing,ELECTRONIC & OTHER ELECTRICAL EQUIPMENT (NO COMPUTER EQUIP),36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3612,Manufacturing,"POWER, DISTRIBUTION & SPECIALTY TRANSFORMERS",36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3613,Manufacturing,SWITCHGEAR & SWITCHBOARD APPARATUS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3620,Manufacturing,ELECTRICAL INDUSTRIAL APPARATUS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3621,Manufacturing,MOTORS & GENERATORS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3630,Manufacturing,HOUSEHOLD APPLIANCES,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3634,Manufacturing,ELECTRIC HOUSEWARES & FANS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3640,Manufacturing,ELECTRIC LIGHTING & WIRING EQUIPMENT,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3651,Manufacturing,HOUSEHOLD AUDIO & VIDEO EQUIPMENT,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3652,Manufacturing,PHONOGRAPH RECORDS & PRERECORDED AUDIO TAPES & DISKS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3661,Manufacturing,TELEPHONE & TELEGRAPH APPARATUS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3663,Manufacturing,RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3669,Manufacturing,"COMMUNICATIONS EQUIPMENT, NEC",36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3670,Manufacturing,ELECTRONIC COMPONENTS & ACCESSORIES,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3672,Manufacturing,PRINTED CIRCUIT BOARDS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3674,Manufacturing,SEMICONDUCTORS & RELATED DEVICES,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3677,Manufacturing,"ELECTRONIC COILS, TRANSFORMERS & OTHER INDUCTORS",36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3678,Manufacturing,ELECTRONIC CONNECTORS,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3679,Manufacturing,"ELECTRONIC COMPONENTS, NEC",36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3690,Manufacturing,"MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES",36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3695,Manufacturing,MAGNETIC & OPTICAL RECORDING MEDIA,36,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment",Manufacturing
+3711,Manufacturing,MOTOR VEHICLES & PASSENGER CAR BODIES,37,Transportation Equipment,Manufacturing
+3713,Manufacturing,TRUCK & BUS BODIES,37,Transportation Equipment,Manufacturing
+3714,Manufacturing,MOTOR VEHICLE PARTS & ACCESSORIES,37,Transportation Equipment,Manufacturing
+3715,Manufacturing,TRUCK TRAILERS,37,Transportation Equipment,Manufacturing
+3716,Manufacturing,MOTOR HOMES,37,Transportation Equipment,Manufacturing
+3720,Manufacturing,AIRCRAFT & PARTS,37,Transportation Equipment,Manufacturing
+3721,Manufacturing,AIRCRAFT,37,Transportation Equipment,Manufacturing
+3724,Manufacturing,AIRCRAFT ENGINES & ENGINE PARTS,37,Transportation Equipment,Manufacturing
+3728,Manufacturing,"AIRCRAFT PARTS & AUXILIARY EQUIPMENT, NEC",37,Transportation Equipment,Manufacturing
+3730,Manufacturing,SHIP & BOAT BUILDING & REPAIRING,37,Transportation Equipment,Manufacturing
+3743,Manufacturing,RAILROAD EQUIPMENT,37,Transportation Equipment,Manufacturing
+3751,Manufacturing,"MOTORCYCLES, BICYCLES & PARTS",37,Transportation Equipment,Manufacturing
+3760,Manufacturing,GUIDED MISSILES & SPACE VEHICLES & PARTS,37,Transportation Equipment,Manufacturing
+3790,Manufacturing,MISCELLANEOUS TRANSPORTATION EQUIPMENT,37,Transportation Equipment,Manufacturing
+3812,Manufacturing,"SEARCH, DETECTION, NAVAGATION, GUIDANCE, AERONAUTICAL SYS",38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3821,Life Sciences,LABORATORY APPARATUS & FURNITURE,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3822,Life Sciences,AUTO CONTROLS FOR REGULATING RESIDENTIAL & COMML ENVIRONMENTS,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3823,Life Sciences,"INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3824,Life Sciences,TOTALIZING FLUID METERS & COUNTING DEVICES,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3825,Life Sciences,INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3826,Life Sciences,LABORATORY ANALYTICAL INSTRUMENTS,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3827,Life Sciences,OPTICAL INSTRUMENTS & LENSES,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3829,Life Sciences,"MEASURING & CONTROLLING DEVICES, NEC",38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3841,Life Sciences,SURGICAL & MEDICAL INSTRUMENTS & APPARATUS,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3842,Life Sciences,"ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES",38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3843,Life Sciences,DENTAL EQUIPMENT & SUPPLIES,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3844,Life Sciences,X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3845,Life Sciences,ELECTROMEDICAL & ELECTROTHERAPEUTIC APPARATUS,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3851,Life Sciences,OPHTHALMIC GOODS,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3861,Life Sciences,PHOTOGRAPHIC EQUIPMENT & SUPPLIES,38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3873,Life Sciences,"WATCHES, CLOCKS, CLOCKWORK OPERATED DEVICES/PARTS",38,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks",Manufacturing
+3910,Manufacturing,"JEWELRY, SILVERWARE & PLATED WARE",39,Miscellaneous Manufacturing Industries,Manufacturing
+3911,Manufacturing,"JEWELRY, PRECIOUS METAL",39,Miscellaneous Manufacturing Industries,Manufacturing
+3931,Manufacturing,MUSICAL INSTRUMENTS,39,Miscellaneous Manufacturing Industries,Manufacturing
+3942,Manufacturing,DOLLS & STUFFED TOYS,39,Miscellaneous Manufacturing Industries,Manufacturing
+3944,Manufacturing,"GAMES, TOYS & CHILDREN'S VEHICLES (NO DOLLS & BICYCLES)",39,Miscellaneous Manufacturing Industries,Manufacturing
+3949,Manufacturing,"SPORTING & ATHLETIC GOODS, NEC",39,Miscellaneous Manufacturing Industries,Manufacturing
+3950,Manufacturing,"PENS, PENCILS & OTHER ARTISTS' MATERIALS",39,Miscellaneous Manufacturing Industries,Manufacturing
+3960,Manufacturing,COSTUME JEWELRY & NOVELTIES,39,Miscellaneous Manufacturing Industries,Manufacturing
+3990,Manufacturing,MISCELLANEOUS MANUFACTURING INDUSTRIES,39,Miscellaneous Manufacturing Industries,Manufacturing
+4011,Energy & Transportation,"RAILROADS, LINE-HAUL OPERATING",40,Railroad Transportation,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4013,Energy & Transportation,RAILROAD SWITCHING & TERMINAL ESTABLISHMENTS,40,Railroad Transportation,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4100,Energy & Transportation,LOCAL & SUBURBAN TRANSIT & INTERURBAN HWY PASSENGER TRANS,41,Local And Suburban Transit And Interurban Highway Passenger Transportation,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4210,Energy & Transportation,TRUCKING & COURIER SERVICES (NO AIR),42,Motor Freight Transportation And Warehousing,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4213,Energy & Transportation,TRUCKING (NO LOCAL),42,Motor Freight Transportation And Warehousing,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4220,Energy & Transportation,PUBLIC WAREHOUSING & STORAGE,42,Motor Freight Transportation And Warehousing,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4231,Energy & Transportation,TERMINAL MAINTENANCE FACILITIES FOR MOTOR FREIGHT TRANSPORT,42,Motor Freight Transportation And Warehousing,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4400,Energy & Transportation,WATER TRANSPORTATION,44,Water Transportation,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4412,Energy & Transportation,DEEP SEA FOREIGN TRANSPORTATION OF FREIGHT,44,Water Transportation,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4512,Energy & Transportation,"AIR TRANSPORTATION, SCHEDULED",45,Transportation By Air,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4513,Energy & Transportation,AIR COURIER SERVICES,45,Transportation By Air,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4522,Energy & Transportation,"AIR TRANSPORTATION, NONSCHEDULED",45,Transportation By Air,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4581,Energy & Transportation,"AIRPORTS, FLYING FIELDS & AIRPORT TERMINAL SERVICES",45,Transportation By Air,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4610,Energy & Transportation,PIPE LINES (NO NATURAL GAS),46,"Pipelines, Except Natural Gas","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4700,Energy & Transportation,TRANSPORTATION SERVICES,47,Transportation Services,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4731,Energy & Transportation,ARRANGEMENT OF TRANSPORTATION OF FREIGHT & CARGO,47,Transportation Services,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4812,Technology,RADIOTELEPHONE COMMUNICATIONS,48,Communications,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4813,Technology,TELEPHONE COMMUNICATIONS (NO RADIOTELEPHONE),48,Communications,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4822,Technology,TELEGRAPH & OTHER MESSAGE COMMUNICATIONS,48,Communications,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4832,Technology,RADIO BROADCASTING STATIONS,48,Communications,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4833,Technology,TELEVISION BROADCASTING STATIONS,48,Communications,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4841,Technology,CABLE & OTHER PAY TELEVISION SERVICES,48,Communications,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4899,Technology,"COMMUNICATIONS SERVICES, NEC",48,Communications,"Transportation, Communications, Electric, Gas, And Sanitary Services"
+4900,Energy & Transportation,"ELECTRIC, GAS & SANITARY SERVICES",49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4911,Energy & Transportation,ELECTRIC SERVICES,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4922,Energy & Transportation,NATURAL GAS TRANSMISSION,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4923,Energy & Transportation,NATURAL GAS TRANSMISISON & DISTRIBUTION,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4924,Energy & Transportation,NATURAL GAS DISTRIBUTION,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4931,Energy & Transportation,ELECTRIC & OTHER SERVICES COMBINED,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4932,Energy & Transportation,GAS & OTHER SERVICES COMBINED,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4941,Energy & Transportation,WATER SUPPLY,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4950,Energy & Transportation,SANITARY SERVICES,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4953,Energy & Transportation,REFUSE SYSTEMS,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4955,Energy & Transportation,HAZARDOUS WASTE MANAGEMENT,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4961,Energy & Transportation,STEAM & AIR-CONDITIONING SUPPLY,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+4991,Energy & Transportation,COGENERATION SERVICES & SMALL POWER PRODUCERS,49,"Electric, Gas, And Sanitary Services","Transportation, Communications, Electric, Gas, And Sanitary Services"
+5000,Trade & Services,WHOLESALE-DURABLE GOODS,50,Wholesale Trade-durable Goods,Wholesale Trade
+5010,Trade & Services,WHOLESALE-MOTOR VEHICLES & MOTOR VEHICLE PARTS & SUPPLIES,50,Wholesale Trade-durable Goods,Wholesale Trade
+5013,Trade & Services,WHOLESALE-MOTOR VEHICLE SUPPLIES & NEW PARTS,50,Wholesale Trade-durable Goods,Wholesale Trade
+5020,Trade & Services,WHOLESALE-FURNITURE & HOME FURNISHINGS,50,Wholesale Trade-durable Goods,Wholesale Trade
+5030,Trade & Services,WHOLESALE-LUMBER & OTHER CONSTRUCTION MATERIALS,50,Wholesale Trade-durable Goods,Wholesale Trade
+5031,Trade & Services,"WHOLESALE-LUMBER, PLYWOOD, MILLWORK & WOOD PANELS",50,Wholesale Trade-durable Goods,Wholesale Trade
+5040,Trade & Services,WHOLESALE-PROFESSIONAL & COMMERCIAL EQUIPMENT & SUPPLIES,50,Wholesale Trade-durable Goods,Wholesale Trade
+5045,Trade & Services,WHOLESALE-COMPUTERS & PERIPHERAL EQUIPMENT & SOFTWARE,50,Wholesale Trade-durable Goods,Wholesale Trade
+5047,Trade & Services,"WHOLESALE-MEDICAL, DENTAL & HOSPITAL EQUIPMENT & SUPPLIES",50,Wholesale Trade-durable Goods,Wholesale Trade
+5050,Trade & Services,WHOLESALE-METALS & MINERALS (NO PETROLEUM),50,Wholesale Trade-durable Goods,Wholesale Trade
+5051,Trade & Services,WHOLESALE-METALS SERVICE CENTERS & OFFICES,50,Wholesale Trade-durable Goods,Wholesale Trade
+5063,Trade & Services,"WHOLESALE-ELECTRICAL APPARATUS & EQUIPMENT, WIRING SUPPLIES",50,Wholesale Trade-durable Goods,Wholesale Trade
+5064,Trade & Services,"WHOLESALE-ELECTRICAL APPLIANCES, TV & RADIO SETS",50,Wholesale Trade-durable Goods,Wholesale Trade
+5065,Trade & Services,"WHOLESALE-ELECTRONIC PARTS & EQUIPMENT, NEC",50,Wholesale Trade-durable Goods,Wholesale Trade
+5070,Trade & Services,WHOLESALE-HARDWARE & PLUMBING & HEATING EQUIPMENT & SUPPLIES,50,Wholesale Trade-durable Goods,Wholesale Trade
+5072,Trade & Services,WHOLESALE-HARDWARE,50,Wholesale Trade-durable Goods,Wholesale Trade
+5080,Trade & Services,"WHOLESALE-MACHINERY, EQUIPMENT & SUPPLIES",50,Wholesale Trade-durable Goods,Wholesale Trade
+5082,Trade & Services,WHOLESALE-CONSTRUCTION & MINING (NO PETRO) MACHINERY & EQUIP,50,Wholesale Trade-durable Goods,Wholesale Trade
+5084,Trade & Services,WHOLESALE-INDUSTRIAL MACHINERY & EQUIPMENT,50,Wholesale Trade-durable Goods,Wholesale Trade
+5090,Trade & Services,WHOLESALE-MISC DURABLE GOODS,50,Wholesale Trade-durable Goods,Wholesale Trade
+5094,Trade & Services,"WHOLESALE-JEWELRY, WATCHES, PRECIOUS STONES & METALS",50,Wholesale Trade-durable Goods,Wholesale Trade
+5099,Trade & Services,"WHOLESALE-DURABLE GOODS, NEC",50,Wholesale Trade-durable Goods,Wholesale Trade
+5110,Trade & Services,WHOLESALE-PAPER & PAPER PRODUCTS,51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5122,Trade & Services,"WHOLESALE-DRUGS, PROPRIETARIES & DRUGGISTS' SUNDRIES",51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5130,Trade & Services,"WHOLESALE-APPAREL, PIECE GOODS & NOTIONS",51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5140,Trade & Services,WHOLESALE-GROCERIES & RELATED PRODUCTS,51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5141,Trade & Services,"WHOLESALE-GROCERIES, GENERAL LINE",51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5150,Trade & Services,WHOLESALE-FARM PRODUCT RAW MATERIALS,51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5160,Trade & Services,WHOLESALE-CHEMICALS & ALLIED PRODUCTS,51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5171,Trade & Services,WHOLESALE-PETROLEUM BULK STATIONS & TERMINALS,51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5172,Trade & Services,WHOLESALE-PETROLEUM & PETROLEUM PRODUCTS (NO BULK STATIONS),51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5180,Trade & Services,"WHOLESALE-BEER, WINE & DISTILLED ALCOHOLIC BEVERAGES",51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5190,Trade & Services,WHOLESALE-MISCELLANEOUS NONDURABLE GOODS,51,Wholesale Trade-non-durable Goods,Wholesale Trade
+5200,Trade & Services,"RETAIL-BUILDING MATERIALS, HARDWARE, GARDEN SUPPLY",52,"Building Materials, Hardware, Garden Supply, And Mobile Home Dealers",Retail Trade
+5211,Trade & Services,RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS,52,"Building Materials, Hardware, Garden Supply, And Mobile Home Dealers",Retail Trade
+5271,Trade & Services,RETAIL-MOBILE HOME DEALERS,52,"Building Materials, Hardware, Garden Supply, And Mobile Home Dealers",Retail Trade
+5311,Trade & Services,RETAIL-DEPARTMENT STORES,53,General Merchandise Stores,Retail Trade
+5331,Trade & Services,RETAIL-VARIETY STORES,53,General Merchandise Stores,Retail Trade
+5399,Trade & Services,RETAIL-MISC GENERAL MERCHANDISE STORES,53,General Merchandise Stores,Retail Trade
+5400,Trade & Services,RETAIL-FOOD STORES,54,Food Stores,Retail Trade
+5411,Trade & Services,RETAIL-GROCERY STORES,54,Food Stores,Retail Trade
+5412,Trade & Services,RETAIL-CONVENIENCE STORES,54,Food Stores,Retail Trade
+5500,Trade & Services,RETAIL-AUTO DEALERS & GASOLINE STATIONS,55,Automotive Dealers And Gasoline Service Stations,Retail Trade
+5531,Trade & Services,RETAIL-AUTO & HOME SUPPLY STORES,55,Automotive Dealers And Gasoline Service Stations,Retail Trade
+5600,Trade & Services,RETAIL-APPAREL & ACCESSORY STORES,56,Apparel And Accessory Stores,Retail Trade
+5621,Trade & Services,RETAIL-WOMEN'S CLOTHING STORES,56,Apparel And Accessory Stores,Retail Trade
+5651,Trade & Services,RETAIL-FAMILY CLOTHING STORES,56,Apparel And Accessory Stores,Retail Trade
+5661,Trade & Services,RETAIL-SHOE STORES,56,Apparel And Accessory Stores,Retail Trade
+5700,Trade & Services,"RETAIL-HOME FURNITURE, FURNISHINGS & EQUIPMENT STORES",57,"Home Furniture, Furnishings, And Equipment Stores",Retail Trade
+5712,Trade & Services,RETAIL-FURNITURE STORES,57,"Home Furniture, Furnishings, And Equipment Stores",Retail Trade
+5731,Trade & Services,"RETAIL-RADIO, TV & CONSUMER ELECTRONICS STORES",57,"Home Furniture, Furnishings, And Equipment Stores",Retail Trade
+5734,Trade & Services,RETAIL-COMPUTER & COMPUTER SOFTWARE STORES,57,"Home Furniture, Furnishings, And Equipment Stores",Retail Trade
+5735,Trade & Services,RETAIL-RECORD & PRERECORDED TAPE STORES,57,"Home Furniture, Furnishings, And Equipment Stores",Retail Trade
+5810,Trade & Services,RETAIL-EATING & DRINKING PLACES,58,Eating And Drinking Places,Retail Trade
+5812,Trade & Services,RETAIL-EATING PLACES,58,Eating And Drinking Places,Retail Trade
+5900,Trade & Services,RETAIL-MISCELLANEOUS RETAIL,59,Miscellaneous Retail,Retail Trade
+5912,Trade & Services,RETAIL-DRUG STORES AND PROPRIETARY STORES,59,Miscellaneous Retail,Retail Trade
+5940,Trade & Services,RETAIL-MISCELLANEOUS SHOPPING GOODS STORES,59,Miscellaneous Retail,Retail Trade
+5944,Trade & Services,RETAIL-JEWELRY STORES,59,Miscellaneous Retail,Retail Trade
+5945,Trade & Services,"RETAIL-HOBBY, TOY & GAME SHOPS",59,Miscellaneous Retail,Retail Trade
+5960,Trade & Services,RETAIL-NONSTORE RETAILERS,59,Miscellaneous Retail,Retail Trade
+5961,Trade & Services,RETAIL-CATALOG & MAIL-ORDER HOUSES,59,Miscellaneous Retail,Retail Trade
+5990,Trade & Services,"RETAIL-RETAIL STORES, NEC",59,Miscellaneous Retail,Retail Trade
+6021,Finance,NATIONAL COMMERCIAL BANKS,60,Depository Institutions,"Finance, Insurance, And Real Estate"
+6022,Finance,STATE COMMERCIAL BANKS,60,Depository Institutions,"Finance, Insurance, And Real Estate"
+6029,Finance,"COMMERCIAL BANKS, NEC",60,Depository Institutions,"Finance, Insurance, And Real Estate"
+6035,Finance,"SAVINGS INSTITUTION, FEDERALLY CHARTERED",60,Depository Institutions,"Finance, Insurance, And Real Estate"
+6036,Finance,"SAVINGS INSTITUTIONS, NOT FEDERALLY CHARTERED",60,Depository Institutions,"Finance, Insurance, And Real Estate"
+6099,Finance,"FUNCTIONS RELATED TO DEPOSITORY BANKING, NEC",60,Depository Institutions,"Finance, Insurance, And Real Estate"
+6111,Finance,FEDERAL & FEDERALLY-SPONSORED CREDIT AGENCIES,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6141,Finance,PERSONAL CREDIT INSTITUTIONS,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6153,Finance,SHORT-TERM BUSINESS CREDIT INSTITUTIONS,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6159,Finance,MISCELLANEOUS BUSINESS CREDIT INSTITUTION,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6162,Finance,MORTGAGE BANKERS & LOAN CORRESPONDENTS,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6163,Finance,LOAN BROKERS,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6172,Finance,FINANCE LESSORS,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6189,Structured Finance,ASSET-BACKED SECURITIES,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6199,Finance,FINANCE SERVICES,61,Non-depository Credit Institutions,"Finance, Insurance, And Real Estate"
+6200,Finance,"SECURITY & COMMODITY BROKERS, DEALERS, EXCHANGES & SERVICES",62,"Security And Commodity Brokers, Dealers, Exchanges, And Services","Finance, Insurance, And Real Estate"
+6211,Finance,"SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",62,"Security And Commodity Brokers, Dealers, Exchanges, And Services","Finance, Insurance, And Real Estate"
+6221,Finance,COMMODITY CONTRACTS BROKERS & DEALERS,62,"Security And Commodity Brokers, Dealers, Exchanges, And Services","Finance, Insurance, And Real Estate"
+6282,Finance,INVESTMENT ADVICE,62,"Security And Commodity Brokers, Dealers, Exchanges, And Services","Finance, Insurance, And Real Estate"
+6311,Finance,LIFE INSURANCE,63,Insurance Carriers,"Finance, Insurance, And Real Estate"
+6321,Finance,ACCIDENT & HEALTH INSURANCE,63,Insurance Carriers,"Finance, Insurance, And Real Estate"
+6324,Finance,HOSPITAL & MEDICAL SERVICE PLANS,63,Insurance Carriers,"Finance, Insurance, And Real Estate"
+6331,Finance,"FIRE, MARINE & CASUALTY INSURANCE",63,Insurance Carriers,"Finance, Insurance, And Real Estate"
+6351,Finance,SURETY INSURANCE,63,Insurance Carriers,"Finance, Insurance, And Real Estate"
+6361,Finance,TITLE INSURANCE,63,Insurance Carriers,"Finance, Insurance, And Real Estate"
+6399,Finance,"INSURANCE CARRIERS, NEC",63,Insurance Carriers,"Finance, Insurance, And Real Estate"
+6411,Finance,"INSURANCE AGENTS, BROKERS & SERVICE",64,"Insurance Agents, Brokers, And Service","Finance, Insurance, And Real Estate"
+6500,Real Estate & Construction,REAL ESTATE,65,Real Estate,"Finance, Insurance, And Real Estate"
+6510,Real Estate & Construction,REAL ESTATE OPERATORS (NO DEVELOPERS) & LESSORS,65,Real Estate,"Finance, Insurance, And Real Estate"
+6512,Real Estate & Construction,OPERATORS OF NONRESIDENTIAL BUILDINGS,65,Real Estate,"Finance, Insurance, And Real Estate"
+6513,Real Estate & Construction,OPERATORS OF APARTMENT BUILDINGS,65,Real Estate,"Finance, Insurance, And Real Estate"
+6519,Real Estate & Construction,"LESSORS OF REAL PROPERTY, NEC",65,Real Estate,"Finance, Insurance, And Real Estate"
+6531,Real Estate & Construction,REAL ESTATE AGENTS & MANAGERS (FOR OTHERS),65,Real Estate,"Finance, Insurance, And Real Estate"
+6532,Real Estate & Construction,REAL ESTATE DEALERS (FOR THEIR OWN ACCOUNT),65,Real Estate,"Finance, Insurance, And Real Estate"
+6552,Real Estate & Construction,LAND SUBDIVIDERS & DEVELOPERS (NO CEMETERIES),65,Real Estate,"Finance, Insurance, And Real Estate"
+6770,Real Estate & Construction,BLANK CHECKS,67,Holding And Other Investment Offices,"Finance, Insurance, And Real Estate"
+6792,Real Estate & Construction,OIL ROYALTY TRADERS,67,Holding And Other Investment Offices,"Finance, Insurance, And Real Estate"
+6794,Real Estate & Construction,PATENT OWNERS & LESSORS,67,Holding And Other Investment Offices,"Finance, Insurance, And Real Estate"
+6795,Real Estate & Construction,MINERAL ROYALTY TRADERS,67,Holding And Other Investment Offices,"Finance, Insurance, And Real Estate"
+6798,Real Estate & Construction,REAL ESTATE INVESTMENT TRUSTS,67,Holding And Other Investment Offices,"Finance, Insurance, And Real Estate"
+6799,Real Estate & Construction,"INVESTORS, NEC",67,Holding And Other Investment Offices,"Finance, Insurance, And Real Estate"
+7000,Real Estate & Construction,"HOTELS, ROOMING HOUSES, CAMPS & OTHER LODGING PLACES",70,"Hotels, Rooming Houses, Camps, And Other Lodging Places",Services
+7011,Real Estate & Construction,HOTELS & MOTELS,70,"Hotels, Rooming Houses, Camps, And Other Lodging Places",Services
+7200,Trade & Services,SERVICES-PERSONAL SERVICES,72,Personal Services,Services
+7310,Trade & Services,SERVICES-ADVERTISING,73,Business Services,Services
+7311,Trade & Services,SERVICES-ADVERTISING AGENCIES,73,Business Services,Services
+7320,Trade & Services,"SERVICES-CONSUMER CREDIT REPORTING, COLLECTION AGENCIES",73,Business Services,Services
+7330,Trade & Services,"SERVICES-MAILING, REPRODUCTION, COMMERCIAL ART & PHOTOGRAPHY",73,Business Services,Services
+7331,Trade & Services,SERVICES-DIRECT MAIL ADVERTISING SERVICES,73,Business Services,Services
+7340,Trade & Services,SERVICES-TO DWELLINGS & OTHER BUILDINGS,73,Business Services,Services
+7350,Trade & Services,SERVICES-MISCELLANEOUS EQUIPMENT RENTAL & LEASING,73,Business Services,Services
+7359,Trade & Services,"SERVICES-EQUIPMENT RENTAL & LEASING, NEC",73,Business Services,Services
+7361,Trade & Services,SERVICES-EMPLOYMENT AGENCIES,73,Business Services,Services
+7363,Trade & Services,SERVICES-HELP SUPPLY SERVICES,73,Business Services,Services
+7370,Technology,"SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",73,Business Services,Services
+7371,Technology,SERVICES-COMPUTER PROGRAMMING SERVICES,73,Business Services,Services
+7372,Technology,SERVICES-PREPACKAGED SOFTWARE,73,Business Services,Services
+7373,Technology,SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN,73,Business Services,Services
+7374,Technology,SERVICES-COMPUTER PROCESSING & DATA PREPARATION,73,Business Services,Services
+7377,Trade & Services,SERVICES-COMPUTER RENTAL & LEASING,73,Business Services,Services
+7380,Trade & Services,SERVICES-MISCELLANEOUS BUSINESS SERVICES,73,Business Services,Services
+7381,Trade & Services,"SERVICES-DETECTIVE, GUARD & ARMORED CAR SERVICES",73,Business Services,Services
+7384,Trade & Services,SERVICES-PHOTOFINISHING LABORATORIES,73,Business Services,Services
+7385,Trade & Services,SERVICES-TELEPHONE INTERCONNECT SYSTEMS,73,Business Services,Services
+7389,Trade & Services,"SERVICES-BUSINESS SERVICES, NEC",73,Business Services,Services
+7500,Trade & Services,"SERVICES-AUTOMOTIVE REPAIR, SERVICES & PARKING",75,"Automotive Repair, Services, And Parking",Services
+7510,Trade & Services,SERVICES-AUTO RENTAL & LEASING (NO DRIVERS),75,"Automotive Repair, Services, And Parking",Services
+7600,Trade & Services,SERVICES-MISCELLANEOUS REPAIR SERVICES,76,Miscellaneous Repair Services,Services
+7812,Trade & Services,SERVICES-MOTION PICTURE & VIDEO TAPE PRODUCTION,78,Motion Pictures,Services
+7819,Trade & Services,SERVICES-ALLIED TO MOTION PICTURE PRODUCTION,78,Motion Pictures,Services
+7822,Trade & Services,SERVICES-MOTION PICTURE & VIDEO TAPE DISTRIBUTION,78,Motion Pictures,Services
+7829,Trade & Services,SERVICES-ALLIED TO MOTION PICTURE DISTRIBUTION,78,Motion Pictures,Services
+7830,Trade & Services,SERVICES-MOTION PICTURE THEATERS,78,Motion Pictures,Services
+7841,Trade & Services,SERVICES-VIDEO TAPE RENTAL,78,Motion Pictures,Services
+7900,Trade & Services,SERVICES-AMUSEMENT & RECREATION SERVICES,79,Amusement And Recreation Services,Services
+7948,Trade & Services,"SERVICES-RACING, INCLUDING TRACK OPERATION",79,Amusement And Recreation Services,Services
+7990,Trade & Services,SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION,79,Amusement And Recreation Services,Services
+7997,Trade & Services,SERVICES-MEMBERSHIP SPORTS & RECREATION CLUBS,79,Amusement And Recreation Services,Services
+8000,Life Sciences,SERVICES-HEALTH SERVICES,80,Health Services,Services
+8011,Life Sciences,SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE,80,Health Services,Services
+8050,Life Sciences,SERVICES-NURSING & PERSONAL CARE FACILITIES,80,Health Services,Services
+8051,Life Sciences,SERVICES-SKILLED NURSING CARE FACILITIES,80,Health Services,Services
+8060,Life Sciences,SERVICES-HOSPITALS,80,Health Services,Services
+8062,Life Sciences,"SERVICES-GENERAL MEDICAL & SURGICAL HOSPITALS, NEC",80,Health Services,Services
+8071,Life Sciences,SERVICES-MEDICAL LABORATORIES,80,Health Services,Services
+8082,Life Sciences,SERVICES-HOME HEALTH CARE SERVICES,80,Health Services,Services
+8090,Life Sciences,"SERVICES-MISC HEALTH & ALLIED SERVICES, NEC",80,Health Services,Services
+8093,Life Sciences,"SERVICES-SPECIALTY OUTPATIENT FACILITIES, NEC",80,Health Services,Services
+8111,Trade & Services,SERVICES-LEGAL SERVICES,81,Legal Services,Services
+8200,Trade & Services,SERVICES-EDUCATIONAL SERVICES,82,Educational Services,Services
+8300,Trade & Services,SERVICES-SOCIAL SERVICES,83,Social Services,Services
+8351,Trade & Services,SERVICES-CHILD DAY CARE SERVICES,83,Social Services,Services
+8600,Trade & Services,SERVICES-MEMBERSHIP ORGANIZATIONS,86,Membership Organizations,Services
+8700,Trade & Services,"SERVICES-ENGINEERING, ACCOUNTING, RESEARCH, MANAGEMENT",87,"Engineering, Accounting, Research, Management, And Related Services",Services
+8711,Trade & Services,SERVICES-ENGINEERING SERVICES,87,"Engineering, Accounting, Research, Management, And Related Services",Services
+8731,Trade & Services,SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH,87,"Engineering, Accounting, Research, Management, And Related Services",Services
+8734,Trade & Services,SERVICES-TESTING LABORATORIES,87,"Engineering, Accounting, Research, Management, And Related Services",Services
+8741,Trade & Services,SERVICES-MANAGEMENT SERVICES,87,"Engineering, Accounting, Research, Management, And Related Services",Services
+8742,Trade & Services,SERVICES-MANAGEMENT CONSULTING SERVICES,87,"Engineering, Accounting, Research, Management, And Related Services",Services
+8744,Trade & Services,SERVICES-FACILITIES SUPPORT MANAGEMENT SERVICES,87,"Engineering, Accounting, Research, Management, And Related Services",Services
+8880,International Corp Fin,AMERICAN DEPOSITARY RECEIPTS,88,Private Households,Services
+8888,International Corp Fin,FOREIGN GOVERNMENTS,88,Private Households,Services
+8900,Trade & Services,"SERVICES-SERVICES, NEC",89,Miscellaneous Services,Services
+9721,International Corp Fin,INTERNATIONAL AFFAIRS,97,National Security And International Affairs,Public Administration
+9995,Real Estate & Construction,NON-OPERATING ESTABLISHMENTS,99,Nonclassifiable Establishments,Public Administration
